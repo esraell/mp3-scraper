@@ -23,7 +23,7 @@ If Git is not installed, follow the installation instructions on the [Git websit
 3. Clone the repository and navigate to the project folder:
 
 ```
-git clone https://github.com/your_username/mp3-scraper.git
+git clone https://github.com/esraell/mp3-scraper.git
 cd mp3-scraper
 ```
 
