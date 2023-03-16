@@ -56,7 +56,3 @@ The script will scrape the specified URL for an MP3 file, download it, and save 
 ## Troubleshooting
 
 If you encounter any issues, make sure you have the latest version of Node.js installed and that all dependencies are installed correctly. If problems persist, feel free to open an issue on the GitHub repository.
-
-## License
-
-[MIT](LICENSE)
