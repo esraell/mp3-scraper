@@ -17,6 +17,9 @@ Make sure you have Node.js installed on your system. You can download it from [h
 ```
 sudo apt install chromium-browser
 ```
+### Installation for Windows
+Install [Chromium](https://download-chromium.appspot.com/) if it is not already installed.
+Add Chromium's executable path to the system environment variables. You can follow this [Guide](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) to learn how to add a new path to the system environment variables. The path should look like: C:\path\to\Chromium\chrome.exe.
 
 If Chormium is not installed, follow the installation instructions on the [Chromium website](https://www.chromium.org/getting-involved/download-chromium/).
 
