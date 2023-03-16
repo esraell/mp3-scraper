@@ -8,17 +8,17 @@ Make sure you have Node.js installed on your system. You can download it from [h
 
 ## Installation
 
-### Windows, macOS, and Linux
+### macOS, and Linux
 
 1. Open a terminal or command prompt.
 
-2. Install Git if it is not already installed. You can check if Git is installed by running:
+2. Install Chromium if it is not already installed. You can install by running:
 
 ```
-git --version
+sudo apt install chromium-browser
 ```
 
-If Git is not installed, follow the installation instructions on the [Git website](https://git-scm.com/downloads).
+If Chormium is not installed, follow the installation instructions on the [Chromium website](https://www.chromium.org/getting-involved/download-chromium/).
 
 3. Clone the repository and navigate to the project folder:
 
